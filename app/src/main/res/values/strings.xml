@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Alarm Clock</string>
+    <string name="action_about">About</string>
+    <string name="log_no">Cancel</string>
+    <string name="log_del">Delete</string>
+    <string name="log_edit">Edit</string>
+    <string name="log_msg">What do you want to do?</string>
+    <string name="warning">⚠警告！\n应用基于 Android 7.1.1（API 25）开发，不兼容较低的 Android 版本！\n此应用仍处于 Beta 阶段，开发者没有足够的时间适配各个系统，应用可能会被限制，无法长时间存在于后台，因此闹钟可能会失效！\n前往设置允许应用自启动，在后台运行，取消电池优化，或者让应用在前台运行可以确保闹钟在大多数情况下生效。</string>
+    <string name="title_activity_about">Alarm Clock</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">About</string>
+
+    <!-- About Preferences -->
+    <string name="name_title">Alarm Clock 1.0.0</string>
+    <string name="name_sub">A Simple Alarm App in Material Design.</string>
+    <string name="dev_title">Developer</string>
+    <string name="dev_sub">解东燊 19061321</string>
+
+
+</resources>
